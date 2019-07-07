@@ -1,0 +1,15 @@
+body { font-family: 'Montserrat', sans-serif; background-color: #00aced; }
+
+.container { padding: 20px; text-align: center; margin: 0 auto; color: white; }
+
+.container .box { margin: 40px 0; }
+
+.container .box h2 { margin-bottom: 20px; }
+
+.container button { color: white; padding: 10px; border-radius: 5px; border: 1px solid white; font-size: 18px; width: 400px; background-color: transparent; margin: 10px 0; outline: none; }
+
+.container button:hover { background-color: #0084b4; cursor: pointer; transition: .3s ease-in-out; }
+
+.container .tweet { text-decoration: none; color: white; }
+
+.container .tweet i { color: white; text-align: center; height: 15px; width: 15px; margin-right: 10px; }
